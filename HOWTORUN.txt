@@ -1,0 +1,7 @@
+# How to Run
+
+1. Open your Command Prompt (cmd) or PowerShell.
+2. Navigate to the project folder using the `cd` command: cd C:\Users\user\Downloads\IP grabber by eclipse
+3. type in: python ECLIPSEV1.py
+(you gonna need requests module------- pip install requests---------or pip install requirements.txt)
+4. Read the disclaimer and press SPACE to accept and enter the tool.
